@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mausam24/static/css/main.57a50b72.css",
+    "main.js": "/mausam24/static/js/main.dd29c918.js",
+    "static/js/787.762aa16d.chunk.js": "/mausam24/static/js/787.762aa16d.chunk.js",
+    "static/media/monsoon.jpg": "/mausam24/static/media/monsoon.8fd32b85e52e58d4d6cb.jpg",
+    "static/media/summer.jpg": "/mausam24/static/media/summer.0336dd1582f258d35b6d.jpg",
+    "static/media/Mausam24.jpg": "/mausam24/static/media/Mausam24.214229ac717f9122758e.jpg",
+    "index.html": "/mausam24/index.html",
+    "main.57a50b72.css.map": "/mausam24/static/css/main.57a50b72.css.map",
+    "main.dd29c918.js.map": "/mausam24/static/js/main.dd29c918.js.map",
+    "787.762aa16d.chunk.js.map": "/mausam24/static/js/787.762aa16d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57a50b72.css",
+    "static/js/main.dd29c918.js"
+  ]
+}
