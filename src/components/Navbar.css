@@ -1,0 +1,11 @@
+#navbar{
+    background-color: #D4DCF7;
+    position: relative;
+    z-index: 1;
+    color:#CB0003;
+}
+.nav-link ,#home{
+    color:#CB0003;
+    font-family: Amaranth;
+    font-size: 1.5em;
+}

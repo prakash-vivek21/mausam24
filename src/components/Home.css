@@ -1,0 +1,33 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+.carousel-container{
+    position: relative;
+    z-index: -1;
+}
+#search-bar{
+    position: absolute;
+    top: 50px;
+    width: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+}
+#cardsforcities{
+    position:absolute;
+    top: 75%;
+    transform: translate(-50% , -50%);
+    left: 50%;
+    z-index: 1;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40%;
+}
+
+#cityDefault{
+    top: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
